@@ -673,5 +673,8 @@ h1, h2, h3, h4 {
 .wechat-unblock .index-posts .l-time, .wechat-unblock .index-posts .l-title {
         margin: 2px 0;
 }
+.wechat-unblock .main-content__title h1, .wechat-unblock .main-content__title {
+        margin: 10px;
+}
 
 /*# sourceMappingURL=style.css.map */
