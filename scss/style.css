@@ -663,4 +663,7 @@ h1, h2, h3, h4 {
   100% {
     transform: translateX(0%); } }
 
+.wechat-unblock .index-displayImg{
+        display: none !important;
+}
 /*# sourceMappingURL=style.css.map */
