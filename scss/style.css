@@ -676,5 +676,8 @@ h1, h2, h3, h4 {
 .wechat-unblock .main-content__title h1, .wechat-unblock .main-content__title {
         margin: 10px;
 }
+.wechat-unblock .main-content__date h4, .wechat-unblock .main-content__date {
+        margin: 5px 0;
+}
 
 /*# sourceMappingURL=style.css.map */
