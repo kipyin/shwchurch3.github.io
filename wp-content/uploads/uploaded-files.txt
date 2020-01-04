@@ -3,6 +3,7 @@
 ./ftp/ejournal/《@守望》第123期——回家.pdf
 ./ftp/ejournal/《@守望》第125期——亲历3·23.pdf
 ./ftp/ejournal/《@守望》第127期——关怀与陪伴.pdf
+./2020/01/e085d8a5248ec1c171874e3fe2906e21.mp3
 ./2017/04/20170402--e4-b8-bb-e6-97-a5-e8-ae-b2-e9-81-93.mp3
 ./ftp/xinghua/2013年春季号——死亡阴影与生命福音.pdf
 ./ftp/xinghua/2011年夏季号——历史的反思.pdf
