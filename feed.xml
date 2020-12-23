@@ -12,7 +12,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 
 <channel>
 	<title>基督教北京守望教会</title>
-	<atom:link href="https://shwchurch3.github.io/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shwchurch3.github.io/feed.xml" rel="self" type="application/rss+xml" />
 	<link>https://shwchurch3.github.io</link>
 	<description></description>
 	<lastBuildDate>Sat, 19 Dec 2020 10:04:54 +0000</lastBuildDate>
@@ -42,7 +42,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<rawvoice:location>Beijing</rawvoice:location>
 	<rawvoice:frequency>Weekly</rawvoice:frequency>
-	<rawvoice:subscribe feed="https://shwchurch3.github.io/feed" itunes="https://itunes.apple.com/cn/podcast/id1238003974"></rawvoice:subscribe>
+	<rawvoice:subscribe feed="https://shwchurch3.github.io/feed.xml" itunes="https://itunes.apple.com/cn/podcast/id1238003974"></rawvoice:subscribe>
 	<item>
 		<title>北京守望教会主日报告事项（2020年12月20日）</title>
 		<link>https://shwchurch3.github.io/2020/12/19/beijingshouwangjiaohuizhuribaogaoshixiang2020nian12yue20ri/</link>
