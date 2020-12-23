@@ -12,7 +12,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 
 <channel>
 	<title>证道讲道 - 基督教北京守望教会</title>
-	<atom:link href="https://shwchurch3.github.io/category/%e8%ae%b2%e9%81%93/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shwchurch3.github.io/category/%E8%AE%B2%E9%81%93/feed.xml" rel="self" type="application/rss+xml" />
 	<link>https://shwchurch3.github.io/category/%e8%ae%b2%e9%81%93/</link>
 	<description>基督教北京守望教会的主日证道、周三祷告会讲道、退休会讲道、讲座以及公开课等</description>
 	<lastBuildDate>Sat, 19 Dec 2020 10:04:54 +0000</lastBuildDate>
@@ -43,7 +43,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	</itunes:category>
 	<rawvoice:location>Beijing</rawvoice:location>
 	<rawvoice:frequency>Weekly</rawvoice:frequency>
-	<rawvoice:subscribe feed="https://shwchurch3.github.io/category/%e8%ae%b2%e9%81%93/feed" itunes="https://itunes.apple.com/cn/podcast/%E8%AF%81%E9%81%93%E8%AE%B2%E9%81%93-%E5%9F%BA%E7%9D%A3%E6%95%99%E5%8C%97%E4%BA%AC%E5%AE%88%E6%9C%9B%E6%95%99%E4%BC%9A/id1238003974?l=en&amp;mt=2"></rawvoice:subscribe>
+	<rawvoice:subscribe feed="https://shwchurch3.github.io/category/%E8%AE%B2%E9%81%93/feed.xml" itunes="https://itunes.apple.com/cn/podcast/%E8%AF%81%E9%81%93%E8%AE%B2%E9%81%93-%E5%9F%BA%E7%9D%A3%E6%95%99%E5%8C%97%E4%BA%AC%E5%AE%88%E6%9C%9B%E6%95%99%E4%BC%9A/id1238003974?l=en&amp;mt=2"></rawvoice:subscribe>
 	<item>
 		<title>有一婴孩为我们而生——2020年12月20日主日讲章/小白牧师</title>
 		<link>https://shwchurch3.github.io/2020/12/19/youyiyinghaiweiwomenersheng2020nian12yue20rizhurijiangzhang-xiaobaimushi/</link>
