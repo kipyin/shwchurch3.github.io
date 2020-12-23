@@ -40,6 +40,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
 	<itunes:category text="Religion &amp; Spirituality">
 		<itunes:category text="Christianity"></itunes:category>
 	</itunes:category>
+	<rawvoice:rating>TV-G</rawvoice:rating>
 	<rawvoice:location>Beijing</rawvoice:location>
 	<rawvoice:frequency>Weekly</rawvoice:frequency>
 	<rawvoice:subscribe feed="https://shwchurch3.github.io/feed.xml" itunes="https://itunes.apple.com/cn/podcast/id1238003974"></rawvoice:subscribe>
